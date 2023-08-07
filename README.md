@@ -1,4 +1,4 @@
-# Statistical_Computing
+# Statistical_Computing in R
 
 The County Health Rankings & Roadmaps (CHR&R) is a program of the University of Wisconsin Population Health Institute. The CHR&R program  provides data, evidence, guidance, and examples to build awareness of the multiple factors that influence health and support leaders in growing community power to improve health equity. The data is provided on a yearly basis for all counties in the US, and is publicly available for researchers, policy makers, and community leaders to understand how communities are performing in terms of health outcomes and health factors. 
 More information is available here: https://www.countyhealthrankings.org.  
