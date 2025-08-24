@@ -34,5 +34,6 @@ This project was completed as part of coursework in Statistical Computing in R a
 	•	Applying regression methods in a real-world health context.
 	•	Communicating findings through reproducible R scripts and clear visualizations.
 
-  ![County Health Rankings Model](https://github.com/Aaarpitaa/Statistical_Computing/assets/132159165/2828867b-a4e6-444b-89d4-22eda06851fa)
+  The CHR&R has a conceptual model that illustrates the relationship between health outcomes and health factors:
 
+![County Health Rankings Model](https://github.com/Aaarpitaa/Statistical_Computing/assets/132159165/2828867b-a4e6-444b-89d4-22eda06851fa)
