@@ -1,4 +1,6 @@
-# County Health Rankings: Health Factors and Life Expectancy in Pennsylvania
+# County Health Rankings- Exploring Social Determinants of Health and Cardiovascular Health
+Through the Lens of Life’s Essential 8: A Spatial Data Analysis
+
 
 ## Overview
 - This project explores county-level health data from the County Health Rankings & Roadmaps (CHR&R) program, developed by the University of Wisconsin Population Health Institute. The CHR&R provides annual, publicly available data on health outcomes and health factors across all U.S. counties. The goal of this analysis is to examine the relationship between health factors and health outcomes in the state of Pennsylvania (N = 65 counties), with a focus on understanding drivers of community health disparities.
