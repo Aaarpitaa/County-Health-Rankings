@@ -42,8 +42,5 @@ Through the Lens of Life’s Essential 8: A Spatial Data Analysis
 
 ### Note: 
 - The analysis was conducted in R using packages such as spdep, spatialreg, sf, psych, dplyr, and openxlsx, and employed methods including Moran’s I tests, Lagrange multiplier diagnostics, and spatial econometric models.
-- This project was completed as a hands-on exercise in-
-	•	Managing large, publicly available datasets
-	•	Applying regression methods in a real-world health context
-	•	Communicating findings through reproducible R scripts and clear visualizations
+- This project was completed as a hands-on exercise in- managing large, publicly available datasets, applying regression methods in a real-world health context and communicating findings through reproducible R scripts and clear visualizations
 
