@@ -1,9 +1,38 @@
 # Statistical Computing in R
 
-The County Health Rankings & Roadmaps (CHR&R) is a program of the University of Wisconsin Population Health Institute. The CHR&R program  provides data, evidence, guidance, and examples to build awareness of the multiple factors that influence health and support leaders in growing community power to improve health equity. The data is provided on a yearly basis for all counties in the US, and is publicly available for researchers, policy makers, and community leaders to understand how communities are performing in terms of health outcomes and health factors. 
-More information is available here: https://www.countyhealthrankings.org.  
- 	Your goal is to conduct an analysis that aims to understand the associations between health factors and health outcomes according to the data you have available provided by the CHR&R – for the state of Pennsylvania (N = 65 counties). Your outcome of interest is length of life, which is measured by a variable called “Years of Potential Life Lost Rate”. The potential health factors can include measures from the following four domains: health behaviors, clinical care, social and economic factors, and physical environment. The CHR&R has a conceptual model that pulls together the relationship between health outcomes and health factors – displayed below.  
-While the CHR&R’s conceptual model includes all four domains of health factors to predict health outcomes, your analysis will only focus on one domain of health factors. Therefore, you can choose to pick measures from either health behaviors, clinical care, social and economic factors, or physical environment. See this website for an interactive display that shows the various measures related to each of the four domains. Additionally, demographic measures like age (% below 18 years of age, % 65 and older), race/ethnicity (i.e. % African American, % American Indian and Alaska Native, % Asian, % Hispanic, % non-Hispanic white), % not proficient in English, % females, and % rural are also provided.    
-  
+TProject Overview
+
+This project explores county-level health data from the County Health Rankings & Roadmaps (CHR&R) program, developed by the University of Wisconsin Population Health Institute. The CHR&R provides annual, publicly available data on health outcomes and health factors across all U.S. counties. The goal of this analysis is to examine the relationship between health factors and health outcomes in the state of Pennsylvania (N = 65 counties), with a focus on understanding drivers of community health disparities.
+
+🔗 More about CHR&R: countyhealthrankings.org
+
+Research Question
+
+How do health factors in Pennsylvania counties influence length of life, as measured by Years of Potential Life Lost (YPLL) Rate?
+
+Health Factors Considered
+
+The CHR&R conceptual model groups predictors into four domains:
+	•	Health Behaviors
+	•	Clinical Care
+	•	Social and Economic Factors
+	•	Physical Environment
+
+In this project, I selected one domain of interest to evaluate its association with YPLL. In addition, demographic measures (e.g., age distribution, race/ethnicity, % rural population, % female, % not proficient in English) were considered as potential covariates.
+
+Methods
+	•	Imported and cleaned CHR&R county-level data for Pennsylvania.
+	•	Selected outcome: Years of Potential Life Lost Rate.
+	•	Chose predictors from one health factor domain, supplemented by demographics.
+	•	Applied regression modeling in R to assess associations between predictors and the outcome.
+	•	Produced data visualizations to highlight patterns and county-level variation.
+
+Purpose
+
+This project was completed as part of coursework in Statistical Computing in R and served as a hands-on exercise in:
+	•	Managing large, publicly available datasets.
+	•	Applying regression methods in a real-world health context.
+	•	Communicating findings through reproducible R scripts and clear visualizations.
+
   
 ![image](https://github.com/Aaarpitaa/Statistical_Computing/assets/132159165/2828867b-a4e6-444b-89d4-22eda06851fa)
