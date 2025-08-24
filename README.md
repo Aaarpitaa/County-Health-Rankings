@@ -40,4 +40,4 @@ The CHR&R has a conceptual model that illustrates the relationship between healt
 
 ![County Health Rankings Model](https://github.com/Aaarpitaa/Statistical_Computing/assets/132159165/2828867b-a4e6-444b-89d4-22eda06851fa)
 
-*Figure: County Health Rankings conceptual model linking health factors (behaviors, clinical care, social & economic conditions, and physical environment) to health outcomes.*
+*Figure: CHR&R conceptual model linking health factors to health outcomes.*
